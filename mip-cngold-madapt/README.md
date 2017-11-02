@@ -1,6 +1,6 @@
 # mip-cngold-madapt
 
-mip-mobile-adapt 页面样式尺寸转换
+mip-cngold-madapt 页面样式尺寸转换
 
 标题|内容
 ----|----

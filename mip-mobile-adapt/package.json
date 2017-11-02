@@ -1,0 +1,14 @@
+{
+    "name": "mip-mobile-adapt",
+    "version": "1.0.0",
+    "description": "样式尺寸转换",
+    "contributors": [
+        {
+            "name": "edwin",
+            "email": "sblig@126.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}

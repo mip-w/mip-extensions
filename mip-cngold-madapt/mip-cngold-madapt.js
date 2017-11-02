@@ -10,7 +10,7 @@ define(function (require) {
     /**
      * 第一次进入可视区回调，只会执行一次
      */
-    customElement.prototype.firstInviewCallback = function () {
+    customElement.prototype.build = function () {
         // TODO
         var docEl = document.documentElement;
         var resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize';

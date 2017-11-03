@@ -1,6 +1,11 @@
 /**
  * @file mip-jt-jtshare 分享组件
  * @author
+ * 说明: ------> qzone  sina tqq  douban 这些分享链接是http链接,并且这里http不用引起本组件https站点报错问题
+ * http://sns.qzone.qq.com
+ * http://service.weibo.com
+ * http://connect.qq.com
+ * http://www.douban.com
  */
 
 define(function (require) {

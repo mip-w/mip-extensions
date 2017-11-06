@@ -11,7 +11,7 @@
 define(function (require) {
     var $ = require('jquery');
     var customElement = require('customElement').create();
-    customElement.prototype.build = function () {
+    customElement.prototype.firstInviewCallback  = function () {
         var element2 = this.element;
         (function ($, window, document) {
             var qzone = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey'

@@ -14,6 +14,9 @@ define(function (require) {
         if (widthstr) {
             try {
                 width = parseInt(widthstr, 10);
+                if (isNaN(width)) {
+                    width = 750;
+                }
             } catch (e) {
                 width = 750;
                 console.log(e);

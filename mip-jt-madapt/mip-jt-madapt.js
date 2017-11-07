@@ -11,7 +11,7 @@ define(function (require) {
         var element2 = this.element;
         var widthstr = $(element2).attr('width');
         var width = 750;
-        if (width) {
+        if (widthstr) {
             try {
                 width = parseInt(widthstr, 10);
             } catch (e) {

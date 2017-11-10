@@ -1,5 +1,5 @@
 /**
- * @file mip-jt-madapt 自动适配手机屏幕宽度
+ * @file mip-jt-resize 自动适配手机屏幕宽度
  * @author jt
  */
 

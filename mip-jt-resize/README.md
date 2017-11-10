@@ -1,18 +1,18 @@
-# mip-jt-madapt
+# mip-jt-resize
 
-mip-jt-madapt 自动适配手机屏幕宽度
+mip-jt-resize 自动适配手机屏幕宽度
 
 标题|内容
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/static/v1/mip-jt-madapt/mip-jt-madapt.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-jt-resize/mip-jt-resize.js
 
 ## 示例
 
 ### 基本用法
 ```html
-<mip-jt-madapt width="640"></mip-jt-madapt>
+<mip-jt-resize width="640"></mip-jt-resize>
 ```
 
 ## width

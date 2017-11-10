@@ -39,6 +39,7 @@ define(function (require) {
             return;
         }
         window.addEventListener(resizeEvt, resize, false);
+        // 检查页面大小变化,重新适配用的
         document.addEventListener('DOMContentLoaded', resize, false);
     };
 

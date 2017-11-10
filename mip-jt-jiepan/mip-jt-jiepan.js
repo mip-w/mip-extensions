@@ -6,7 +6,7 @@
 define(function (require) {
 
     var customElement = require('customElement').create();
-    var $ = require('jquery');
+    var $ = require('zepto');
     var JIEPAN_DOMAIN = 'https://kp.cngold.org';
     var num;
     customElement.prototype.firstInviewCallback = function () {

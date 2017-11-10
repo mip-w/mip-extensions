@@ -6,7 +6,7 @@
 define(function (require) {
 
     var customElement = require('customElement').create();
-    var $ = require('jquery');
+    var $ = require('zepto');
     customElement.prototype.firstInviewCallback = function () {
         var ele = this.element;
         var count = ele.getAttribute('num');

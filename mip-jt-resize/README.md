@@ -1,6 +1,6 @@
 # mip-jt-resize
 
-mip-jt-resize 自动适配手机屏幕宽度
+mip-jt-resize 金投适配
 
 标题|内容
 ----|----

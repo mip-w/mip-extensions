@@ -13,7 +13,7 @@ mip-jt-map 金投地图组件使用说明
 ### 基本用法  所有参数都不填,就是定位当前位置
 ```html
 <div id="allmap"></div>
-<mip-jt-map searchAddr="西湖区文一路"></mip-jt-map>
+<mip-jt-map lng="121.280827" lat="29.688249"></mip-jt-map>
 ```
 
 ## longitude,latitude   与  searchAddr  不需要同时存在

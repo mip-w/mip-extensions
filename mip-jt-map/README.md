@@ -6,13 +6,13 @@ mip-jt-map 金投地图组件使用说明
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/static/v1/mip-jt-map/mip-jt-map.js
+所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-jt-map/mip-jt-map.js
 
 ## 示例
 
 ### 基本用法  所有参数都不填,就是定位当前位置
 ```html
-<mip-jt-map></mip-jt-map>
+<div id="allmap"></div>
 <mip-jt-map searchAddr="西湖区文一路"></mip-jt-map>
 ```
 
